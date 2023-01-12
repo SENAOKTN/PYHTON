@@ -1,2 +1,2 @@
-# PYHTON
+# PYTHON
 my pyhton projetcs
